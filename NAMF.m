@@ -3,11 +3,11 @@ function DenoisedImg= NAMF(x, Ds, ds, B)
 % x is the image to be processed, Ds and ds should be set as 2 and 20, and B should be set as 0.8,
 % respectively, DenoisedImg is the restored image.
 
-% This code is for our paper  for our paper "NAMF: A NON-LOCAL ADAPTIVE MEAN FILTER FOR SALT-AND-PEPPER NOISE REMOVAL".
+% This code is for our paper "NAMF: A NON-LOCAL ADAPTIVE MEAN FILTER FOR SALT-AND-PEPPER NOISE REMOVAL".
 % You can download our paper on https://arxiv.org/abs/1910.07787.
 
 % Author: Houwang Zhang, School of Automation, 
-% China University of Geoscience, China. 
+% China University of Geoscience, Wuhan, China. 
 % Released Date: 2019.10.18
 % If you have found any bugs, have any suggestions or problems, please contact me at
 % Email: zhanghw@cug.edu.cn
